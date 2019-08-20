@@ -1,9 +1,4 @@
 # Bull Cow Game
 
-### Overview
-
-
-### Implementation
-
-
 ### Requirements
+Xcode 10
