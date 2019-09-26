@@ -93,7 +93,7 @@
 		BCC9A0CE2285E13A00EC9656 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Dylan Simerly";
 				TargetAttributes = {
 					BCC9A0D52285E13A00EC9656 = {
@@ -107,6 +107,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = BCC9A0CD2285E13A00EC9656;
 			productRefGroup = BCC9A0D72285E13A00EC9656 /* Products */;
@@ -245,6 +246,7 @@
 		BCC9A0DE2285E13A00EC9656 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9F6D6KZ89;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -254,6 +256,7 @@
 		BCC9A0DF2285E13A00EC9656 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9F6D6KZ89;
 				PRODUCT_NAME = "$(TARGET_NAME)";
